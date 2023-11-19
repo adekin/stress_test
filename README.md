@@ -15,7 +15,6 @@ Then run testing program (stress) with parametrs:
   2) Name of program that fully works (without .cpp)
   3) Name of test generator (without .cpp)
   4) Count of test you want to run (number)
-  (example: "stress main stupid gen 1000")
 
 Program is wrotten for Windows, but to make it fit with Linux you just need to change a few system commands to familiar in Linux
 You can also write smart checker. Here I use Windows command "comp" for character-to-character comprasion.
