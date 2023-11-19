@@ -3,8 +3,6 @@
 First you need to create cpp programs such as: 
   1) Generator that receives one extra parametr - seed of the test,
      and just to print tests using this seed (use "cout")
-{example in the gen.cpp file!}
-     
   2) Any solve of a problem. Just be sure it fully works
   3) Solve that you gonna debug
 
