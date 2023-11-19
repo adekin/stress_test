@@ -1,5 +1,4 @@
-# stress_test
-Debugging C++ programs thorough test randomizer and another C++ program 
+# Debugging C++ programs thorough test randomizer and another C++ program 
 
 First you need to create cpp programs such as: 
   1) Generator that receives one extra parametr - seed of the test,
